@@ -35,12 +35,28 @@ models/
 .DS_Store
 Thumbs.db
 
-# Distribution
-final_release/
+# Distribution - HIDE EVERYTHING EXCEPT FINAL
+SHAKTICORE_COMPLETE_PACKAGE/
+SHAKTICORE_FINAL_MSI_FIXED/
+SHAKTICORE_RELEASE/
+ShaktiCore-PhotoRestore-v1.0-Complete/
+ShaktiCore-PhotoRestore-v1.0-FIXED/
+ShaktiCore-PhotoRestore-v1.0-Final/
+ShaktiCore-PhotoRestore-v1.0-Windows/
+release_package/
 *.zip
 *.msi
 *.exe
 
+# Source code - hide development files
+src-tauri/
+src/
+*.ps1
+*.md
+!README.md
+!final_release/README.txt
+
 # Misc
 .env
 .env.local
+.git
