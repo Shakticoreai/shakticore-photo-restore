@@ -75,7 +75,7 @@ Extract the ZIP and choose:
 ## 📧 Support
 
 - **Issues**: [GitHub Issues](https://github.com/Shakticoreai/shakticore-photo-restore/issues)
-- **Email**: vipul@shakticore.com
+- **Email**: shakticoreai@gmail.com
 
 ---
 
