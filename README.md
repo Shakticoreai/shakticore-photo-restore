@@ -30,6 +30,12 @@ Extract the ZIP and choose:
 
 ---
 
+## 🎬 Demo Video
+
+**[Watch Demo on YouTube](https://youtu.be/VZEBppuhTaU)** - See ShaktiCore Photo Restore in action!
+
+---
+
 ## 🚀 Quick Start
 
 ### Portable Version (Easiest)
